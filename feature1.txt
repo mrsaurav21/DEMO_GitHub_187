@@ -1,1 +1,3 @@
-this is a new feature in the file
+This repository is created for Git and GitHub practical assignment.
+Roll No: 187
+Name: Saurav Singh
